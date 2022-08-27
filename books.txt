@@ -1,0 +1,15 @@
+101: {TITLE:  Slumdog Millionaire, AUTHOR:  Vikas Swarup, STATUS:  avail }
+102: {TITLE:  Into That Forest, AUTHOR:  Louis Nowra, STATUS:  avail }
+103: {TITLE:  Impulse, AUTHOR:  Vanessa Garden, STATUS:  issued }
+104: {TITLE:  Salt to the Sea, AUTHOR:  Ruta Septeys, STATUS:  avail }
+105: {TITLE:  Captivate, AUTHOR:  Vanessa Garden, STATUS:  avail }
+106: {TITLE:  Malgudi days, AUTHOR:  R.K. Narayan, STATUS:  issued }
+107: {TITLE:  Untouchable, AUTHOR:  Mulk Raj Anand, STATUS:  avail }
+108: {TITLE:  Godan, AUTHOR:  Premchand, STATUS:  issued }
+109: {TITLE:  The Room on the Roof, AUTHOR:  Ruskin Bond, STATUS:  avail }
+110: {TITLE:  The God of small things, AUTHOR:  Arundhati Roy, STATUS:  issued }
+111: {TITLE:  India's struggle for Independence, AUTHOR:  Bipan Chandra, STATUS:  avail }
+112: {TITLE:  The Alchemist, AUTHOR:  Paulo Coelho, STATUS:  avail }
+113: {TITLE:  Animal Farm, AUTHOR:  George Orwell, STATUS:  issued }
+114: {TITLE:  The Diary of a Young Girl, AUTHOR:  Anne Frank, STATUS:  issued }
+115: {TITLE:  The Memoirs of Sherlock Holmes, AUTHOR:  Sir Arthur Conan Doyle, STATUS:  issued }
